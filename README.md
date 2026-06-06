@@ -9,3 +9,9 @@ Jobs by Seniority Level,
 Jobs by Location,
 Top Hiring Companies,
 Average Salary
+
+Author
+
+Shriram
+
+Aspiring Data Analyst | SQL | Power BI | Python | Excel
