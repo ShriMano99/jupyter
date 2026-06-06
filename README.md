@@ -9,7 +9,6 @@ Jobs by Seniority Level,
 Jobs by Location,
 Top Hiring Companies,
 Average Salary
-
 Author
 
 Shriram
